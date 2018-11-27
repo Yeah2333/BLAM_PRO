@@ -1,5 +1,8 @@
 # B(erkeley) L(ocalization) A(nd) M(apping)!
 
+请使用catkin_make -DCMAKE_BUILD_TYPE=Release 进行编译安装
+
+
 ![alt text](https://github.com/erik-nelson/blam/raw/master/blam_mosaic.png)
 
 ***BLAM!*** is an open-source software package for LiDAR-based real-time 3D localization and mapping. ***BLAM!*** is developed by Erik Nelson from the Berkeley AI Research Laboratory ([BAIR](http://bair.berkeley.edu)). See https://youtu.be/08GTGfNneCI for a video example.
