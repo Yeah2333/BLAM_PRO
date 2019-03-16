@@ -1,6 +1,5 @@
-# B(erkeley) L(ocalization) A(nd) M(apping)!
+# B(erkeley) L(ocalization) A(nd) M(apping) With Grid Map
 
-请使用catkin_make -DCMAKE_BUILD_TYPE=Release 进行编译安装
 
 
 ![alt text](https://github.com/erik-nelson/blam/raw/master/blam_mosaic.png)
