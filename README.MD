@@ -13,7 +13,7 @@ catkin_make -DCMAKE_BUILD_TYPE=Release
 ```
 
 ##运行
-###正常的BLAM
+##正常的BLAM
 
 在线模式，使用另一个终端播放bag或者链接激光雷达
 ```bash
@@ -26,7 +26,7 @@ roslaunch blam_example test_offline.launch
 ```
 
 
-###转栅格地图
+##转栅格地图
 使用滤波器滤除地面后在建立点云地图在转栅格地图
 ```bash
 roslaunch blam_example cloud2map_filter_octomap.launch
